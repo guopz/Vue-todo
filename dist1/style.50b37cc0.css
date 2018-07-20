@@ -1,0 +1,22 @@
+#app[data-v-0d720761],#cover[data-v-0d720761]{position:absolute;left:0;right:0;top:0;bottom:0}#cover[data-v-0d720761]{background-color:#999;opacity:.9;z-index:-1}.main-header[data-v-28c0c05c]{text-align:center}.main-header h1[data-v-28c0c05c]{font-size:100px;color:rgba(175,47,47,.4);font-weight:100;margin:20px}#footer {
+  margin-top: 40px;
+  text-align: center;
+  color: #bfbfbf;
+  font-size: 30px;
+  text-shadow: 0px 1px 0px 1px;
+}
+.real-app[data-v-417c0cce]{width:600px;margin:0 auto;box-shadow:0 0 5px #666}.add-input[data-v-417c0cce]{positon:relative;margin:0;width:100%;font-size:24px;font-family:inherit;font-weight:inherit;line-height:1.4rem;border:0;outline:none;color:inherit;padding:6px;border:1px solid #999;box-shadow:inset 0 -1px 5px 0 transparent;box-sizing:border-box;font-smoothing:antialiased;padding:16px 16px 16px 60px;border:none}.todo-item[data-v-56321dca]{position:relative;background:#fff;font-size:24px;border-bottom:1px solid rgba(0,0,0,.06)}.todo-item:hover .destroy[data-v-56321dca]:after{content:"x"}.todo-item label[data-v-56321dca]{white-space:pre-line;word-break:break-all;padding:15px 60px 15px 15px;margin-left:45px;display:block;line-height:1.2;transition:color .4s}.todo-item.completed[data-v-56321dca]{label:#d9d9d9;text-decoration:line-through}.todo-item .toggle[data-v-56321dca]{text-align:center;width:400px;height:40px;position:absolute;top:5px;bottom:0;margin:auto 0;border:none;outline:none;-webkit-appearance:none;-moz-appearance:none;appearance:none}.todo-item .toggle[data-v-56321dca]:before{content:url(resources/client/assets/img/round.083421c7.png);position:absolute;left:12px;cursor:pointer}.todo-item .toggle[data-v-56321dca]:checked:before{content:url(resources/client/assets/img/done.ce5eec53.png);position:absolute;left:12px;cursor:pointer}.todo-item .destroy[data-v-56321dca]{position:absolute;top:50%;right:10px;bottom:0;width:40px;height:40px;margin:auto 0;font-size:30px;color:#cc9a9a;margin-bottom:11px;transition:color east-out .2s;background-color:transparent;-webkit-appearance:none;-moz-appearance:none;appearance:none;border-width:0;cursor:pointer;outline:none}.helper{font-weight:100;display:flex;justify-content:space-between;padding:5px 0;line-height:30px;background-color:#fff;font-size:14px;font-smoothing:antialiased}.clear,.left,.tabs{padding:0 10px;box-sizing:border-box}.clear,.left{width:150px}.left{text-align:left}.clear{text-align:right;cursor:pointer}.tabs{width:200px;display:flex;justify-content:space-around}.tabs *{display:inline-block;padding:0 10px;cursor:pointer;border:1px solid rgba(175,47,47,0)}.tabs .actived{border-color:rgba(175,47,47,.4);border-radius:5px}html,
+body {
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+  height: 100%;
+}
+body {
+  background-image: url(resources/client/assets/img/lan_img_vin_03.c48875c8.png);
+  background-size: cover;
+  background-position: center;
+  font: 14px 'microsoft yahei';
+  color: #4d4d4d;
+  font-weight: 300;
+}
